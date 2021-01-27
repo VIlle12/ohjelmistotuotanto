@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is file6, or is it? It is!
+=======
+this is file6, or is it?
+
+I have found that it is not...
+>>>>>>> BR-4
